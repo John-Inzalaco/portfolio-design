@@ -1,0 +1,75 @@
+{
+  "basics": {
+    "name": "John Inzalaco",
+    "label": "Senior Software Engineer",
+    "email": "john.inzalaco.dev@gmail.com",
+    "phone": "(973) 850-9865",
+    "picture": "logo.png",
+    "x_title": "Hello, I'm",
+    "job1": "Senior",
+    "job2": "Software Engineer",
+    "description": "Hello! I'm Mark! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+    "keywords": "personal,website,portfolio,senior,software,engineer,web,developer",
+    "url": "https://taniyow.vercel.app/",
+    "profiles": [
+      {
+        "network": "Google",
+        "username": "john.inzalaco.dev@gmail.com",
+        "url": "mailto:john.inzalaco.dev@gmail.com",
+        "x_icon": "fab fa-google"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "john-inzalaco",
+        "url": "https://www.linkedin.com/in/john-inzalaco/",
+        "x_icon": "fab fa-linkedin-in"
+      },
+      {
+        "network": "GitHub",
+        "username": "john-inzalaco",
+        "url": "https://github.com/John-inzalaco",
+        "x_icon": "fab fa-github"
+      },
+      {
+        "network": "Telegram",
+        "username": "john-inzalaco",
+        "x_icon": "fab fa-telegram-plane"
+      },
+      {
+        "network": "Discord",
+        "username": "john-inzalaco",
+        "x_icon": "fab fa-discord"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Hong Kong University of Science and Technology",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2008-09-01",
+      "endDate": "2012-08-31",
+      "gpa": "4.0"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "TypeScript",
+        "React",
+        "React Native"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}

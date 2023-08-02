@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11ce2c13.css",
+    "main.js": "/static/js/main.dcbe0f02.js",
+    "static/js/333.ff23a92f.chunk.js": "/static/js/333.ff23a92f.chunk.js",
+    "static/media/redwood.png": "/static/media/redwood.d1fa9b24472089a5c3b1.png",
+    "static/media/xqmsg.png": "/static/media/xqmsg.89901be20905de4db0b8.png",
+    "static/media/netbeez.png": "/static/media/netbeez.484ecc67e47ca6f0fc2c.png",
+    "static/media/smartsheet.png": "/static/media/smartsheet.5a72507e980328c0b1f9.png",
+    "static/media/autodesk.png": "/static/media/autodesk.02de65699becb205922f.png",
+    "static/media/loyal.png": "/static/media/loyal.07acf7f7ea4dcd7506d8.png",
+    "static/media/John_Inzalaco_Resume.pdf": "/static/media/John_Inzalaco_Resume.12e3afd617e043bcec51.pdf",
+    "static/media/profile.png": "/static/media/profile.47c034e77b6d36555076.png",
+    "index.html": "/index.html",
+    "main.11ce2c13.css.map": "/static/css/main.11ce2c13.css.map",
+    "main.dcbe0f02.js.map": "/static/js/main.dcbe0f02.js.map",
+    "333.ff23a92f.chunk.js.map": "/static/js/333.ff23a92f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11ce2c13.css",
+    "static/js/main.dcbe0f02.js"
+  ]
+}
